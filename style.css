@@ -1,3 +1,14 @@
-h1{
-    font-size: 20px;
+body{
+    text-align: center;
+    background-color: yellow;
+}
+a.hover{
+    text-decoration: none;
+    color: black(166, 14, 172, 0.066);
+}
+a.visited {
+    color: brown(16,197,64);
+}
+a.link {
+    color: blue(146.24,86);
 }
